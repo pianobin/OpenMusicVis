@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+MusicVisualizer/bin/
+MusicVisualizer/MusicVisualizer.xcodeproj/
+MusicVisualizer/obj/

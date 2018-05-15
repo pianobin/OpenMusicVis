@@ -1,0 +1,3 @@
+ofxGui
+ofxHistoryPlot
+ofxPostProcessing
