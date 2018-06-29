@@ -10,4 +10,4 @@ For us to foster an open and welcoming environment, please follow our standards 
 * Be respectful and focus on what is the best for the community
 
 ## Attribution
-Our standards are adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct), version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.
+Our standards are adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct), version 1.4.
